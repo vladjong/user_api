@@ -1,5 +1,5 @@
+![poster](resources/poster.png)
 # USER_API
-
 
 ## Описание
 Приложение представляет собой API по работе с сущностью User, где хранилищем выступает файл json
@@ -40,7 +40,7 @@
 ## Запуск
 1. Склонировать репозиторий
 ```
-git clone https://github.com/vladjong/user_balance.git
+git clone https://github.com/vladjong/user_api
 ```
 2. Открыть терминал и набрать:
 ```
